@@ -9,3 +9,4 @@ ni hao git
 >>>>>>> feature1
 >>>>>>> feature1
 >>>>>>> feature1
+nihao
