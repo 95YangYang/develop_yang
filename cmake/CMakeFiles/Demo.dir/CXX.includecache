@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yang/Desktop/git_test/yang/develop_yang/cmake/MathFunction.h
+
+/Users/yang/Desktop/git_test/yang/develop_yang/cmake/main.cpp
+stdio.h
+-
+MathFunction.h
+/Users/yang/Desktop/git_test/yang/develop_yang/cmake/MathFunction.h
+

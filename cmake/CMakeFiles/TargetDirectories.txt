@@ -1,0 +1,3 @@
+/Users/yang/Desktop/git_test/yang/develop_yang/cmake/CMakeFiles/rebuild_cache.dir
+/Users/yang/Desktop/git_test/yang/develop_yang/cmake/CMakeFiles/edit_cache.dir
+/Users/yang/Desktop/git_test/yang/develop_yang/cmake/CMakeFiles/Demo.dir
